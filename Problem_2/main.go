@@ -8,17 +8,17 @@ var target = 4_000_000
 func main()  {
 	// my simple approach
 	fib(1,1)
-	fmt.Println(sum)
+	fmt.Println("SUM:",sum)
 }
 
 func fib(x, y int) int {
-	if(y > target){
-		return x+y
-	}
-	fmt.Println(y)
+	fmt.Println("FIB:",y)
 	if y % 2 == 0 {
 		sum += y
 	}
 	x += y
+	if(x > target) {
+		return 0
+	}
 	return fib(y,x)
 }
