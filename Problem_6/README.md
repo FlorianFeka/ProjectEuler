@@ -6,7 +6,7 @@ The sum of the squares of the first ten natural numbers is,
 
 The square of the sum of the first ten natural numbers is,
 
-![square of the sum](http://www.sciweavers.org/tex2img.php?eq=%281%2B2%2B...%2B10%292%3D552%3D3025&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
+![square of the sum](http://www.sciweavers.org/tex2img.php?eq=%281%2B2%2B...%2B10%29%5E2%3D552%3D3025&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
 
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025−385=2640.
 
